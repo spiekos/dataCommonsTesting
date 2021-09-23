@@ -1,0 +1,500 @@
+ConceptID,ConceptName,TermID,TermName,DateCreated,DateRevised,DateEstablished,Term_dcid,Concept_dcid
+M0000001,Calcimycin,T000002,Calcimycin,11/19/74,5/27/16,1/1/84,bio/T000002,bio/M0000001
+M0353609,A-23187,T000001,A-23187,11/19/74,5/27/16,1/1/84,bio/T000001,bio/M0353609
+M0353609,A-23187,T000001,A 23187,11/19/74,5/27/16,1/1/84,bio/T000001,bio/M0353609
+M0353609,A-23187,T000004,A23187,11/19/74,5/27/16,1/1/84,bio/T000004,bio/M0353609
+M0353609,A-23187,T000003,Antibiotic A23187,11/19/74,5/27/16,1/1/84,bio/T000003,bio/M0353609
+M0353609,A-23187,T000003,"A23187, Antibiotic",11/19/74,5/27/16,1/1/84,bio/T000003,bio/M0353609
+M0000002,Temefos,T000008,Temefos,1/1/99,7/8/13,1/1/91,bio/T000008,bio/M0000002
+M0000002,Temefos,T000007,Temephos,1/1/99,7/8/13,1/1/91,bio/T000007,bio/M0000002
+M0352201,Abate,T000005,Abate,1/1/99,7/8/13,1/1/91,bio/T000005,bio/M0352201
+M0352200,Difos,T000006,Difos,1/1/99,7/8/13,1/1/91,bio/T000006,bio/M0352200
+M0000003,Abattoirs,T000009,Abattoirs,1/1/99,6/8/16,1/1/66,bio/T000009,bio/M0000003
+M0000003,Abattoirs,T000009,Abattoir,1/1/99,6/8/16,1/1/66,bio/T000009,bio/M0000003
+M0000003,Abattoirs,T000901742,Slaughter Houses,1/1/99,6/8/16,1/1/66,bio/T000901742,bio/M0000003
+M0000003,Abattoirs,T000901742,"House, Slaughter",1/1/99,6/8/16,1/1/66,bio/T000901742,bio/M0000003
+M0000003,Abattoirs,T000901742,"Houses, Slaughter",1/1/99,6/8/16,1/1/66,bio/T000901742,bio/M0000003
+M0000003,Abattoirs,T000901743,Slaughter House,1/1/99,6/8/16,1/1/66,bio/T000901743,bio/M0000003
+M0000003,Abattoirs,T000010,Slaughterhouses,1/1/99,6/8/16,1/1/66,bio/T000010,bio/M0000003
+M0000003,Abattoirs,T000010,Slaughterhouse,1/1/99,6/8/16,1/1/66,bio/T000010,bio/M0000003
+M0000004,Abbreviations as Topic,T698652,Abbreviations as Topic,1/1/99,6/30/17,1/1/60,bio/T698652,bio/M0000004
+M0511063,Acronyms as Topic,T701041,Acronyms as Topic,1/1/99,6/30/17,1/1/60,bio/T701041,bio/M0511063
+M0000005,Abdomen,T000012,Abdomen,1/1/99,8/9/16,1/1/66,bio/T000012,bio/M0000005
+M0000005,Abdomen,T000012,Abdomens,1/1/99,8/9/16,1/1/66,bio/T000012,bio/M0000005
+M0000006,"Abdomen, Acute",T000013,"Abdomen, Acute",1/1/99,6/20/17,1/1/66,bio/T000013,bio/M0000006
+M0000006,"Abdomen, Acute",T000013,"Abdomens, Acute",1/1/99,6/20/17,1/1/66,bio/T000013,bio/M0000006
+M0000006,"Abdomen, Acute",T000013,Acute Abdomen,1/1/99,6/20/17,1/1/66,bio/T000013,bio/M0000006
+M0000006,"Abdomen, Acute",T000013,Acute Abdomens,1/1/99,6/20/17,1/1/66,bio/T000013,bio/M0000006
+M0000007,Abdominal Injuries,T000015,Abdominal Injuries,1/1/99,6/25/10,1/1/66,bio/T000015,bio/M0000007
+M0000007,Abdominal Injuries,T000014,"Injuries, Abdominal",1/1/99,6/25/10,1/1/66,bio/T000014,bio/M0000007
+M0000007,Abdominal Injuries,T000014,Abdominal Injury,1/1/99,6/25/10,1/1/66,bio/T000014,bio/M0000007
+M0000007,Abdominal Injuries,T000014,"Injury, Abdominal",1/1/99,6/25/10,1/1/66,bio/T000014,bio/M0000007
+M0000008,Abdominal Neoplasms,T000016,Abdominal Neoplasms,1/1/99,11/24/15,1/1/66,bio/T000016,bio/M0000008
+M0000008,Abdominal Neoplasms,T000016,Abdominal Neoplasm,1/1/99,11/24/15,1/1/66,bio/T000016,bio/M0000008
+M0000008,Abdominal Neoplasms,T000016,"Neoplasm, Abdominal",1/1/99,11/24/15,1/1/66,bio/T000016,bio/M0000008
+M0000008,Abdominal Neoplasms,T000016,"Neoplasms, Abdominal",1/1/99,11/24/15,1/1/66,bio/T000016,bio/M0000008
+M0000009,Abdominal Muscles,T000018,Abdominal Muscles,1/1/99,5/31/16,1/1/93,bio/T000018,bio/M0000009
+M0000009,Abdominal Muscles,T000018,Abdominal Muscle,1/1/99,5/31/16,1/1/93,bio/T000018,bio/M0000009
+M0000009,Abdominal Muscles,T000018,"Muscle, Abdominal",1/1/99,5/31/16,1/1/93,bio/T000018,bio/M0000009
+M0000009,Abdominal Muscles,T000018,"Muscles, Abdominal",1/1/99,5/31/16,1/1/93,bio/T000018,bio/M0000009
+M000615276,Cremaster Muscle,T000896272,Cremaster Muscle,1/1/99,5/31/16,1/1/93,bio/T000896272,bio/M000615276
+M000615276,Cremaster Muscle,T000896272,Cremaster Muscles,1/1/99,5/31/16,1/1/93,bio/T000896272,bio/M000615276
+M000615276,Cremaster Muscle,T000896272,"Muscle, Cremaster",1/1/99,5/31/16,1/1/93,bio/T000896272,bio/M000615276
+M000615276,Cremaster Muscle,T000896272,"Muscles, Cremaster",1/1/99,5/31/16,1/1/93,bio/T000896272,bio/M000615276
+M000615216,Pyramidalis Muscle,T000896111,Pyramidalis Muscle,1/1/99,5/31/16,1/1/93,bio/T000896111,bio/M000615216
+M000615216,Pyramidalis Muscle,T000896111,"Muscle, Pyramidalis",1/1/99,5/31/16,1/1/93,bio/T000896111,bio/M000615216
+M000615216,Pyramidalis Muscle,T000896111,"Muscles, Pyramidalis",1/1/99,5/31/16,1/1/93,bio/T000896111,bio/M000615216
+M000615216,Pyramidalis Muscle,T000896111,Pyramidalis Muscles,1/1/99,5/31/16,1/1/93,bio/T000896111,bio/M000615216
+M000616776,Quadratus Abdominis,T000898967,Quadratus Abdominis,1/1/99,5/31/16,1/1/93,bio/T000898967,bio/M000616776
+M000616776,Quadratus Abdominis,T000898967,"Abdomini, Quadratus",1/1/99,5/31/16,1/1/93,bio/T000898967,bio/M000616776
+M000616776,Quadratus Abdominis,T000898967,"Abdominis, Quadratus",1/1/99,5/31/16,1/1/93,bio/T000898967,bio/M000616776
+M000616776,Quadratus Abdominis,T000898967,Quadratus Abdomini,1/1/99,5/31/16,1/1/93,bio/T000898967,bio/M000616776
+M000615203,Transversus Abdominis,T000896092,Transversus Abdominis,1/1/99,5/31/16,1/1/93,bio/T000896092,bio/M000615203
+M000615203,Transversus Abdominis,T000896094,Transverse Abdominal,1/1/99,5/31/16,1/1/93,bio/T000896094,bio/M000615203
+M000615203,Transversus Abdominis,T000896094,"Abdominal, Transverse",1/1/99,5/31/16,1/1/93,bio/T000896094,bio/M000615203
+M000615203,Transversus Abdominis,T000896094,"Abdominals, Transverse",1/1/99,5/31/16,1/1/93,bio/T000896094,bio/M000615203
+M000615203,Transversus Abdominis,T000896094,Transverse Abdominals,1/1/99,5/31/16,1/1/93,bio/T000896094,bio/M000615203
+M0000010,Abducens Nerve,T000019,Abducens Nerve,1/1/99,6/20/14,1/1/66,bio/T000019,bio/M0000010
+M0000010,Abducens Nerve,T000019,"Nerve, Abducens",1/1/99,6/20/14,1/1/66,bio/T000019,bio/M0000010
+M0000010,Abducens Nerve,T000020,Sixth Cranial Nerve,1/1/99,6/20/14,1/1/66,bio/T000020,bio/M0000010
+M0000010,Abducens Nerve,T000020,"Cranial Nerve, Sixth",1/1/99,6/20/14,1/1/66,bio/T000020,bio/M0000010
+M0000010,Abducens Nerve,T000020,"Nerve, Sixth Cranial",1/1/99,6/20/14,1/1/66,bio/T000020,bio/M0000010
+M0000010,Abducens Nerve,T000020,"Nerves, Sixth Cranial",1/1/99,6/20/14,1/1/66,bio/T000020,bio/M0000010
+M0000010,Abducens Nerve,T000020,Sixth Cranial Nerves,1/1/99,6/20/14,1/1/66,bio/T000020,bio/M0000010
+M0000010,Abducens Nerve,T856510,Nerve VI,1/1/99,6/20/14,1/1/66,bio/T856510,bio/M0000010
+M0000010,Abducens Nerve,T856510,Nerve VIs,1/1/99,6/20/14,1/1/66,bio/T856510,bio/M0000010
+M0000010,Abducens Nerve,T856511,Nervus Abducens,1/1/99,6/20/14,1/1/66,bio/T856511,bio/M0000010
+M0000010,Abducens Nerve,T856511,"Abducen, Nervus",1/1/99,6/20/14,1/1/66,bio/T856511,bio/M0000010
+M0000010,Abducens Nerve,T856511,"Abducens, Nervus",1/1/99,6/20/14,1/1/66,bio/T856511,bio/M0000010
+M0000010,Abducens Nerve,T856511,Nervus Abducen,1/1/99,6/20/14,1/1/66,bio/T856511,bio/M0000010
+M0000010,Abducens Nerve,T000021,Abducent Nerve,1/1/99,6/20/14,1/1/66,bio/T000021,bio/M0000010
+M0000010,Abducens Nerve,T000021,Abducent Nerves,1/1/99,6/20/14,1/1/66,bio/T000021,bio/M0000010
+M0000010,Abducens Nerve,T000021,"Nerve, Abducent",1/1/99,6/20/14,1/1/66,bio/T000021,bio/M0000010
+M0000010,Abducens Nerve,T000022,Cranial Nerve VI,1/1/99,6/20/14,1/1/66,bio/T000022,bio/M0000010
+M0000010,Abducens Nerve,T000022,Cranial Nerve VIs,1/1/99,6/20/14,1/1/66,bio/T000022,bio/M0000010
+M0000010,Abducens Nerve,T000022,"Nerve VI, Cranial",1/1/99,6/20/14,1/1/66,bio/T000022,bio/M0000010
+M0000010,Abducens Nerve,T000022,"Nerve VIs, Cranial",1/1/99,6/20/14,1/1/66,bio/T000022,bio/M0000010
+M0000011,Abelson murine leukemia virus,T445670,Abelson murine leukemia virus,4/16/79,8/13/20,1/1/91,bio/T445670,bio/M0000011
+M0000011,Abelson murine leukemia virus,T000023,Abelson Leukemia Virus,4/16/79,8/13/20,1/1/91,bio/T000023,bio/M0000011
+M0000011,Abelson murine leukemia virus,T000023,"Leukemia Virus, Abelson",4/16/79,8/13/20,1/1/91,bio/T000023,bio/M0000011
+M0000011,Abelson murine leukemia virus,T000023,"Virus, Abelson Leukemia",4/16/79,8/13/20,1/1/91,bio/T000023,bio/M0000011
+M0000012,Abetalipoproteinemia,T000024,Abetalipoproteinemia,1/1/99,7/8/13,1/1/66,bio/T000024,bio/M0000012
+M0000012,Abetalipoproteinemia,T365904,Bassen-Kornzweig Disease,1/1/99,7/8/13,1/1/66,bio/T365904,bio/M0000012
+M0000012,Abetalipoproteinemia,T365904,Bassen Kornzweig Disease,1/1/99,7/8/13,1/1/66,bio/T365904,bio/M0000012
+M0000012,Abetalipoproteinemia,T365903,Microsomal Triglyceride Transfer Protein Deficiency Disease,1/1/99,7/8/13,1/1/66,bio/T365903,bio/M0000012
+M0000012,Abetalipoproteinemia,T751239,Betalipoprotein Deficiency Disease,1/1/99,7/8/13,1/1/66,bio/T751239,bio/M0000012
+M0000012,Abetalipoproteinemia,T751239,Betalipoprotein Deficiency Diseases,1/1/99,7/8/13,1/1/66,bio/T751239,bio/M0000012
+M0000012,Abetalipoproteinemia,T751239,"Deficiency Disease, Betalipoprotein",1/1/99,7/8/13,1/1/66,bio/T751239,bio/M0000012
+M0000012,Abetalipoproteinemia,T751239,"Deficiency Diseases, Betalipoprotein",1/1/99,7/8/13,1/1/66,bio/T751239,bio/M0000012
+M0000012,Abetalipoproteinemia,T751239,"Disease, Betalipoprotein Deficiency",1/1/99,7/8/13,1/1/66,bio/T751239,bio/M0000012
+M0000012,Abetalipoproteinemia,T751239,"Diseases, Betalipoprotein Deficiency",1/1/99,7/8/13,1/1/66,bio/T751239,bio/M0000012
+M0000012,Abetalipoproteinemia,T646365,Microsomal Triglyceride Transfer Protein Deficiency,1/1/99,7/8/13,1/1/66,bio/T646365,bio/M0000012
+M0000012,Abetalipoproteinemia,T811395,Acanthocytosis,1/1/99,7/8/13,1/1/66,bio/T811395,bio/M0000012
+M0000012,Abetalipoproteinemia,T811395,Acanthocytoses,1/1/99,7/8/13,1/1/66,bio/T811395,bio/M0000012
+M0000012,Abetalipoproteinemia,T000025,Bassen-Kornzweig Syndrome,1/1/99,7/8/13,1/1/66,bio/T000025,bio/M0000012
+M0000012,Abetalipoproteinemia,T000025,Bassen Kornzweig Syndrome,1/1/99,7/8/13,1/1/66,bio/T000025,bio/M0000012
+M0000013,Congenital Abnormalities,T000029,Congenital Abnormalities,1/1/99,1/16/20,1/1/08,bio/T000029,bio/M0000013
+M0000013,Congenital Abnormalities,T000029,"Abnormality, Congenital",1/1/99,1/16/20,1/1/08,bio/T000029,bio/M0000013
+M0000013,Congenital Abnormalities,T000029,Congenital Abnormality,1/1/99,1/16/20,1/1/08,bio/T000029,bio/M0000013
+M0000013,Congenital Abnormalities,T000032,Deformities,1/1/99,1/16/20,1/1/08,bio/T000032,bio/M0000013
+M0000013,Congenital Abnormalities,T000032,Deformity,1/1/99,1/16/20,1/1/08,bio/T000032,bio/M0000013
+M0000013,Congenital Abnormalities,T000031,Congenital Defects,1/1/99,1/16/20,1/1/08,bio/T000031,bio/M0000013
+M0000013,Congenital Abnormalities,T000031,Congenital Defect,1/1/99,1/16/20,1/1/08,bio/T000031,bio/M0000013
+M0000013,Congenital Abnormalities,T000031,"Defect, Congenital",1/1/99,1/16/20,1/1/08,bio/T000031,bio/M0000013
+M0000013,Congenital Abnormalities,T000030,"Defects, Congenital",1/1/99,1/16/20,1/1/08,bio/T000030,bio/M0000013
+M0000013,Congenital Abnormalities,T000028,"Abnormalities, Congenital",1/1/99,1/16/20,1/1/08,bio/T000028,bio/M0000013
+M0000013,Congenital Abnormalities,T000027,Birth Defects,1/1/99,1/16/20,1/1/08,bio/T000027,bio/M0000013
+M0000013,Congenital Abnormalities,T000027,Birth Defect,1/1/99,1/16/20,1/1/08,bio/T000027,bio/M0000013
+M0000013,Congenital Abnormalities,T000027,"Defect, Birth",1/1/99,1/16/20,1/1/08,bio/T000027,bio/M0000013
+M000677226,Fetal Malformations,T000999312,Fetal Malformations,1/1/99,1/16/20,1/1/08,bio/T000999312,bio/M000677226
+M000677226,Fetal Malformations,T000999312,Fetal Malformation,1/1/99,1/16/20,1/1/08,bio/T000999312,bio/M000677226
+M000677226,Fetal Malformations,T000999312,"Malformation, Fetal",1/1/99,1/16/20,1/1/08,bio/T000999312,bio/M000677226
+M000677225,Fetal Anomalies,T000999311,Fetal Anomalies,1/1/99,1/16/20,1/1/08,bio/T000999311,bio/M000677225
+M000677225,Fetal Anomalies,T000999311,"Anomaly, Fetal",1/1/99,1/16/20,1/1/08,bio/T000999311,bio/M000677225
+M000677225,Fetal Anomalies,T000999311,Fetal Anomaly,1/1/99,1/16/20,1/1/08,bio/T000999311,bio/M000677225
+M0000014,"Abnormalities, Drug-Induced",T000034,"Abnormalities, Drug-Induced",1/1/99,7/8/13,1/1/64,bio/T000034,bio/M0000014
+M0000014,"Abnormalities, Drug-Induced",T000034,"Abnormalities, Drug Induced",1/1/99,7/8/13,1/1/64,bio/T000034,bio/M0000014
+M0000014,"Abnormalities, Drug-Induced",T000033,Drug-Induced Abnormalities,1/1/99,7/8/13,1/1/64,bio/T000033,bio/M0000014
+M0000014,"Abnormalities, Drug-Induced",T000033,"Abnormality, Drug-Induced",1/1/99,7/8/13,1/1/64,bio/T000033,bio/M0000014
+M0000014,"Abnormalities, Drug-Induced",T000033,Drug Induced Abnormalities,1/1/99,7/8/13,1/1/64,bio/T000033,bio/M0000014
+M0000014,"Abnormalities, Drug-Induced",T000033,Drug-Induced Abnormality,1/1/99,7/8/13,1/1/64,bio/T000033,bio/M0000014
+M0000015,"Abnormalities, Multiple",T000036,"Abnormalities, Multiple",1/1/99,12/1/15,1/1/68,bio/T000036,bio/M0000015
+M0000015,"Abnormalities, Multiple",T000035,Multiple Abnormalities,1/1/99,12/1/15,1/1/68,bio/T000035,bio/M0000015
+M0000016,"Abnormalities, Radiation-Induced",T000038,"Abnormalities, Radiation-Induced",3/20/78,6/22/15,1/1/79,bio/T000038,bio/M0000016
+M0000016,"Abnormalities, Radiation-Induced",T000038,"Abnormalities, Radiation Induced",3/20/78,6/22/15,1/1/79,bio/T000038,bio/M0000016
+M0000016,"Abnormalities, Radiation-Induced",T000037,Radiation-Induced Abnormalities,3/20/78,6/22/15,1/1/79,bio/T000037,bio/M0000016
+M0000016,"Abnormalities, Radiation-Induced",T000037,"Abnormality, Radiation-Induced",3/20/78,6/22/15,1/1/79,bio/T000037,bio/M0000016
+M0000016,"Abnormalities, Radiation-Induced",T000037,Radiation Induced Abnormalities,3/20/78,6/22/15,1/1/79,bio/T000037,bio/M0000016
+M0000016,"Abnormalities, Radiation-Induced",T000037,Radiation-Induced Abnormality,3/20/78,6/22/15,1/1/79,bio/T000037,bio/M0000016
+M0000017,ABO Blood-Group System,T000040,ABO Blood-Group System,7/25/75,6/30/05,1/1/76,bio/T000040,bio/M0000017
+M0000017,ABO Blood-Group System,T000040,ABO Blood Group System,7/25/75,6/30/05,1/1/76,bio/T000040,bio/M0000017
+M0000017,ABO Blood-Group System,T000040,ABO Blood-Group Systems,7/25/75,6/30/05,1/1/76,bio/T000040,bio/M0000017
+M0000017,ABO Blood-Group System,T000040,"Blood-Group System, ABO",7/25/75,6/30/05,1/1/76,bio/T000040,bio/M0000017
+M0000017,ABO Blood-Group System,T000040,"Blood-Group Systems, ABO",7/25/75,6/30/05,1/1/76,bio/T000040,bio/M0000017
+M0000017,ABO Blood-Group System,T000040,"System, ABO Blood-Group",7/25/75,6/30/05,1/1/76,bio/T000040,bio/M0000017
+M0000017,ABO Blood-Group System,T000040,"Systems, ABO Blood-Group",7/25/75,6/30/05,1/1/76,bio/T000040,bio/M0000017
+M0000017,ABO Blood-Group System,T000042,H Blood Group System,7/25/75,6/30/05,1/1/76,bio/T000042,bio/M0000017
+M0000017,ABO Blood-Group System,T000041,H Blood Group,7/25/75,6/30/05,1/1/76,bio/T000041,bio/M0000017
+M0000017,ABO Blood-Group System,T000041,"Blood Group, H",7/25/75,6/30/05,1/1/76,bio/T000041,bio/M0000017
+M0000017,ABO Blood-Group System,T000041,"Blood Groups, H",7/25/75,6/30/05,1/1/76,bio/T000041,bio/M0000017
+M0000017,ABO Blood-Group System,T000041,H Blood Groups,7/25/75,6/30/05,1/1/76,bio/T000041,bio/M0000017
+M0000017,ABO Blood-Group System,T000039,ABH Blood Group,7/25/75,6/30/05,1/1/76,bio/T000039,bio/M0000017
+M0000017,ABO Blood-Group System,T000039,ABH Blood Groups,7/25/75,6/30/05,1/1/76,bio/T000039,bio/M0000017
+M0000017,ABO Blood-Group System,T000039,"Blood Group, ABH",7/25/75,6/30/05,1/1/76,bio/T000039,bio/M0000017
+M0000017,ABO Blood-Group System,T000039,"Blood Groups, ABH",7/25/75,6/30/05,1/1/76,bio/T000039,bio/M0000017
+M0000019,Blood Group H Type 1 Antigen,T000044,Blood Group H Type 1 Antigen,7/25/75,6/30/05,1/1/76,bio/T000044,bio/M0000019
+M0000018,ABO Factors,T000043,ABO Factors,7/25/75,6/30/05,1/1/76,bio/T000043,bio/M0000018
+M0000018,ABO Factors,T000043,ABO Factor,7/25/75,6/30/05,1/1/76,bio/T000043,bio/M0000018
+M0000018,ABO Factors,T000043,"Factor, ABO",7/25/75,6/30/05,1/1/76,bio/T000043,bio/M0000018
+M0000018,ABO Factors,T000043,"Factors, ABO",7/25/75,6/30/05,1/1/76,bio/T000043,bio/M0000018
+M0000020,Abomasum,T000045,Abomasum,1/1/99,5/18/95,1/1/68,bio/T000045,bio/M0000020
+M0000020,Abomasum,T000045,Abomasums,1/1/99,5/18/95,1/1/68,bio/T000045,bio/M0000020
+M0000021,Abortifacient Agents,T000046,Abortifacient Agents,1/1/99,6/25/14,1/1/75,bio/T000046,bio/M0000021
+M0000021,Abortifacient Agents,T000046,"Agents, Abortifacient",1/1/99,6/25/14,1/1/75,bio/T000046,bio/M0000021
+M0000021,Abortifacient Agents,T000047,"Contraceptive Agents, Postconception",1/1/99,6/25/14,1/1/75,bio/T000047,bio/M0000021
+M0000021,Abortifacient Agents,T000047,"Agents, Postconception Contraceptive",1/1/99,6/25/14,1/1/75,bio/T000047,bio/M0000021
+M0000021,Abortifacient Agents,T000047,Postconception Contraceptive Agents,1/1/99,6/25/14,1/1/75,bio/T000047,bio/M0000021
+M0000021,Abortifacient Agents,T000048,Abortifacients,1/1/99,6/25/14,1/1/75,bio/T000048,bio/M0000021
+M0556260,Abortifacient Effect,T788179,Abortifacient Effect,1/1/99,6/25/14,1/1/75,bio/T788179,bio/M0556260
+M0556260,Abortifacient Effect,T788179,"Effect, Abortifacient",1/1/99,6/25/14,1/1/75,bio/T788179,bio/M0556260
+M0556260,Abortifacient Effect,T788180,Abortifacient Effects,1/1/99,6/25/14,1/1/75,bio/T788180,bio/M0556260
+M0556260,Abortifacient Effect,T788180,"Effects, Abortifacient",1/1/99,6/25/14,1/1/75,bio/T788180,bio/M0556260
+M0000022,"Abortifacient Agents, Nonsteroidal",T000050,"Abortifacient Agents, Nonsteroidal",11/11/74,6/25/14,1/1/91,bio/T000050,bio/M0000022
+M0000022,"Abortifacient Agents, Nonsteroidal",T000050,"Agents, Nonsteroidal Abortifacient",11/11/74,6/25/14,1/1/91,bio/T000050,bio/M0000022
+M0000022,"Abortifacient Agents, Nonsteroidal",T000050,Nonsteroidal Abortifacient Agents,11/11/74,6/25/14,1/1/91,bio/T000050,bio/M0000022
+M0000022,"Abortifacient Agents, Nonsteroidal",T000049,"Abortifacient Agents, Non-Steroidal",11/11/74,6/25/14,1/1/91,bio/T000049,bio/M0000022
+M0000022,"Abortifacient Agents, Nonsteroidal",T000049,"Abortifacient Agents, Non Steroidal",11/11/74,6/25/14,1/1/91,bio/T000049,bio/M0000022
+M0000022,"Abortifacient Agents, Nonsteroidal",T000049,"Agents, Non-Steroidal Abortifacient",11/11/74,6/25/14,1/1/91,bio/T000049,bio/M0000022
+M0000022,"Abortifacient Agents, Nonsteroidal",T000049,Non-Steroidal Abortifacient Agents,11/11/74,6/25/14,1/1/91,bio/T000049,bio/M0000022
+M0000023,"Abortifacient Agents, Steroidal",T000051,"Abortifacient Agents, Steroidal",11/11/74,6/30/05,1/1/91,bio/T000051,bio/M0000023
+M0000023,"Abortifacient Agents, Steroidal",T000051,"Agents, Steroidal Abortifacient",11/11/74,6/30/05,1/1/91,bio/T000051,bio/M0000023
+M0000023,"Abortifacient Agents, Steroidal",T000051,Steroidal Abortifacient Agents,11/11/74,6/30/05,1/1/91,bio/T000051,bio/M0000023
+M0000023,"Abortifacient Agents, Steroidal",T000052,Steroid Abortifacients,11/11/74,6/30/05,1/1/91,bio/T000052,bio/M0000023
+M0000023,"Abortifacient Agents, Steroidal",T000052,"Abortifacients, Steroid",11/11/74,6/30/05,1/1/91,bio/T000052,bio/M0000023
+M0000024,"Abortion, Spontaneous",T000053,"Abortion, Spontaneous",1/1/99,6/21/18,1/1/99,bio/T000053,bio/M0000024
+M0000024,"Abortion, Spontaneous",T000053,"Abortions, Spontaneous",1/1/99,6/21/18,1/1/99,bio/T000053,bio/M0000024
+M0000024,"Abortion, Spontaneous",T000053,Spontaneous Abortions,1/1/99,6/21/18,1/1/99,bio/T000053,bio/M0000024
+M0000024,"Abortion, Spontaneous",T484312,Spontaneous Abortion,1/1/99,6/21/18,1/1/99,bio/T484312,bio/M0000024
+M000639514,Early Pregnancy Loss,T000937143,Early Pregnancy Loss,1/1/99,6/21/18,1/1/99,bio/T000937143,bio/M000639514
+M000639514,Early Pregnancy Loss,T000937143,Early Pregnancy Losses,1/1/99,6/21/18,1/1/99,bio/T000937143,bio/M000639514
+M000639514,Early Pregnancy Loss,T000937143,"Loss, Early Pregnancy",1/1/99,6/21/18,1/1/99,bio/T000937143,bio/M000639514
+M000639514,Early Pregnancy Loss,T000937143,"Losses, Early Pregnancy",1/1/99,6/21/18,1/1/99,bio/T000937143,bio/M000639514
+M000639514,Early Pregnancy Loss,T000937143,"Pregnancy Loss, Early",1/1/99,6/21/18,1/1/99,bio/T000937143,bio/M000639514
+M000639514,Early Pregnancy Loss,T000937143,"Pregnancy Losses, Early",1/1/99,6/21/18,1/1/99,bio/T000937143,bio/M000639514
+M000639513,Miscarriage,T000937142,Miscarriage,1/1/99,6/21/18,1/1/99,bio/T000937142,bio/M000639513
+M000639513,Miscarriage,T000937142,Miscarriages,1/1/99,6/21/18,1/1/99,bio/T000937142,bio/M000639513
+M0000025,"Abortion, Tubal",T000055,"Abortion, Tubal",1/1/99,6/21/18,1/1/99,bio/T000055,bio/M0000025
+M0000025,"Abortion, Tubal",T000055,"Abortions, Tubal",1/1/99,6/21/18,1/1/99,bio/T000055,bio/M0000025
+M0000025,"Abortion, Tubal",T000055,Tubal Abortion,1/1/99,6/21/18,1/1/99,bio/T000055,bio/M0000025
+M0000025,"Abortion, Tubal",T000055,Tubal Abortions,1/1/99,6/21/18,1/1/99,bio/T000055,bio/M0000025
+M0000026,Abortion Applicants,T000056,Abortion Applicants,11/19/74,6/23/15,1/1/76,bio/T000056,bio/M0000026
+M0000026,Abortion Applicants,T000056,Abortion Applicant,11/19/74,6/23/15,1/1/76,bio/T000056,bio/M0000026
+M0000026,Abortion Applicants,T000056,"Applicant, Abortion",11/19/74,6/23/15,1/1/76,bio/T000056,bio/M0000026
+M0000026,Abortion Applicants,T000056,"Applicants, Abortion",11/19/74,6/23/15,1/1/76,bio/T000056,bio/M0000026
+M0000026,Abortion Applicants,T000057,Abortion Seekers,11/19/74,6/23/15,1/1/76,bio/T000057,bio/M0000026
+M0000026,Abortion Applicants,T000057,Abortion Seeker,11/19/74,6/23/15,1/1/76,bio/T000057,bio/M0000026
+M0000026,Abortion Applicants,T000057,"Seeker, Abortion",11/19/74,6/23/15,1/1/76,bio/T000057,bio/M0000026
+M0000026,Abortion Applicants,T000057,"Seekers, Abortion",11/19/74,6/23/15,1/1/76,bio/T000057,bio/M0000026
+M0000028,"Abortion Seekers, Repeated",T000059,"Abortion Seekers, Repeated",11/19/74,6/23/15,1/1/76,bio/T000059,bio/M0000028
+M0000028,"Abortion Seekers, Repeated",T000059,"Abortion Seeker, Repeated",11/19/74,6/23/15,1/1/76,bio/T000059,bio/M0000028
+M0000028,"Abortion Seekers, Repeated",T000059,Repeated Abortion Seeker,11/19/74,6/23/15,1/1/76,bio/T000059,bio/M0000028
+M0000028,"Abortion Seekers, Repeated",T000059,Repeated Abortion Seekers,11/19/74,6/23/15,1/1/76,bio/T000059,bio/M0000028
+M0000028,"Abortion Seekers, Repeated",T000059,"Seeker, Repeated Abortion",11/19/74,6/23/15,1/1/76,bio/T000059,bio/M0000028
+M0000028,"Abortion Seekers, Repeated",T000059,"Seekers, Repeated Abortion",11/19/74,6/23/15,1/1/76,bio/T000059,bio/M0000028
+M0000027,"Abortion Seekers, Refused",T000058,"Abortion Seekers, Refused",11/19/74,6/23/15,1/1/76,bio/T000058,bio/M0000027
+M0000027,"Abortion Seekers, Refused",T000058,"Abortion Seeker, Refused",11/19/74,6/23/15,1/1/76,bio/T000058,bio/M0000027
+M0000027,"Abortion Seekers, Refused",T000058,Refused Abortion Seeker,11/19/74,6/23/15,1/1/76,bio/T000058,bio/M0000027
+M0000027,"Abortion Seekers, Refused",T000058,Refused Abortion Seekers,11/19/74,6/23/15,1/1/76,bio/T000058,bio/M0000027
+M0000027,"Abortion Seekers, Refused",T000058,"Seeker, Refused Abortion",11/19/74,6/23/15,1/1/76,bio/T000058,bio/M0000027
+M0000027,"Abortion Seekers, Refused",T000058,"Seekers, Refused Abortion",11/19/74,6/23/15,1/1/76,bio/T000058,bio/M0000027
+M0000029,"Abortion, Criminal",T000060,"Abortion, Criminal",1/1/99,6/23/15,1/1/66,bio/T000060,bio/M0000029
+M0000029,"Abortion, Criminal",T000060,"Abortions, Criminal",1/1/99,6/23/15,1/1/66,bio/T000060,bio/M0000029
+M0000029,"Abortion, Criminal",T000060,Criminal Abortion,1/1/99,6/23/15,1/1/66,bio/T000060,bio/M0000029
+M0000029,"Abortion, Criminal",T000060,Criminal Abortions,1/1/99,6/23/15,1/1/66,bio/T000060,bio/M0000029
+M0000029,"Abortion, Criminal",T000062,"Abortion, Illegal",1/1/99,6/23/15,1/1/66,bio/T000062,bio/M0000029
+M0000029,"Abortion, Criminal",T000061,Illegal Abortion,1/1/99,6/23/15,1/1/66,bio/T000061,bio/M0000029
+M0000029,"Abortion, Criminal",T000061,"Abortions, Illegal",1/1/99,6/23/15,1/1/66,bio/T000061,bio/M0000029
+M0000029,"Abortion, Criminal",T000061,Illegal Abortions,1/1/99,6/23/15,1/1/66,bio/T000061,bio/M0000029
+M0000030,"Abortion, Eugenic",T000064,"Abortion, Eugenic",11/19/74,6/23/15,1/1/91,bio/T000064,bio/M0000030
+M0000030,"Abortion, Eugenic",T000064,"Abortions, Eugenic",11/19/74,6/23/15,1/1/91,bio/T000064,bio/M0000030
+M0000030,"Abortion, Eugenic",T000064,Eugenic Abortions,11/19/74,6/23/15,1/1/91,bio/T000064,bio/M0000030
+M0000030,"Abortion, Eugenic",T000063,Eugenic Abortion,11/19/74,6/23/15,1/1/91,bio/T000063,bio/M0000030
+M0000031,"Abortion, Selective",T000065,"Abortion, Selective",11/19/74,6/23/15,1/1/91,bio/T000065,bio/M0000031
+M0000031,"Abortion, Selective",T000065,"Abortions, Selective",11/19/74,6/23/15,1/1/91,bio/T000065,bio/M0000031
+M0000031,"Abortion, Selective",T000065,Selective Abortions,11/19/74,6/23/15,1/1/91,bio/T000065,bio/M0000031
+M0000031,"Abortion, Selective",T000066,Selective Abortion,11/19/74,6/23/15,1/1/91,bio/T000066,bio/M0000031
+M0000032,"Abortion, Habitual",T000067,"Abortion, Habitual",1/1/99,6/20/17,1/1/66,bio/T000067,bio/M0000032
+M0000032,"Abortion, Habitual",T000067,Habitual Abortion,1/1/99,6/20/17,1/1/66,bio/T000067,bio/M0000032
+M0000032,"Abortion, Habitual",T000067,Habitual Abortions,1/1/99,6/20/17,1/1/66,bio/T000067,bio/M0000032
+M0000032,"Abortion, Habitual",T000069,"Miscarriage, Recurrent",1/1/99,6/20/17,1/1/66,bio/T000069,bio/M0000032
+M0000032,"Abortion, Habitual",T000069,Recurrent Miscarriage,1/1/99,6/20/17,1/1/66,bio/T000069,bio/M0000032
+M0000032,"Abortion, Habitual",T000069,Recurrent Miscarriages,1/1/99,6/20/17,1/1/66,bio/T000069,bio/M0000032
+M0000032,"Abortion, Habitual",T000068,"Abortion, Recurrent",1/1/99,6/20/17,1/1/66,bio/T000068,bio/M0000032
+M0000032,"Abortion, Habitual",T000068,Recurrent Abortion,1/1/99,6/20/17,1/1/66,bio/T000068,bio/M0000032
+M0000032,"Abortion, Habitual",T000068,Recurrent Abortions,1/1/99,6/20/17,1/1/66,bio/T000068,bio/M0000032
+M0000032,"Abortion, Habitual",T000923274,Recurrent Early Pregnancy Loss,1/1/99,6/20/17,1/1/66,bio/T000923274,bio/M0000032
+M0000033,"Abortion, Incomplete",T000070,"Abortion, Incomplete",11/11/74,6/30/05,9/1/75,bio/T000070,bio/M0000033
+M0000033,"Abortion, Incomplete",T000070,"Abortions, Incomplete",11/11/74,6/30/05,9/1/75,bio/T000070,bio/M0000033
+M0000033,"Abortion, Incomplete",T000070,Incomplete Abortion,11/11/74,6/30/05,9/1/75,bio/T000070,bio/M0000033
+M0000033,"Abortion, Incomplete",T000070,Incomplete Abortions,11/11/74,6/30/05,9/1/75,bio/T000070,bio/M0000033
+M0000037,"Abortion, Induced",T000076,"Abortion, Induced",1/1/99,7/2/02,1/1/71,bio/T000076,bio/M0000037
+M0000037,"Abortion, Induced",T000075,Induced Abortion,1/1/99,7/2/02,1/1/71,bio/T000075,bio/M0000037
+M0000037,"Abortion, Induced",T000075,"Abortions, Induced",1/1/99,7/2/02,1/1/71,bio/T000075,bio/M0000037
+M0000037,"Abortion, Induced",T000075,Induced Abortions,1/1/99,7/2/02,1/1/71,bio/T000075,bio/M0000037
+M0000037,"Abortion, Induced",T373837,Abortion (Induced),1/1/99,7/2/02,1/1/71,bio/T373837,bio/M0000037
+M0000037,"Abortion, Induced",T373837,Abortions (Induced),1/1/99,7/2/02,1/1/71,bio/T373837,bio/M0000037
+M0000035,Abortion Rate,T000073,Abortion Rate,1/1/99,7/2/02,1/1/71,bio/T000073,bio/M0000035
+M0000035,Abortion Rate,T000073,Abortion Rates,1/1/99,7/2/02,1/1/71,bio/T000073,bio/M0000035
+M0000035,Abortion Rate,T000073,"Rate, Abortion",1/1/99,7/2/02,1/1/71,bio/T000073,bio/M0000035
+M0000035,Abortion Rate,T000073,"Rates, Abortion",1/1/99,7/2/02,1/1/71,bio/T000073,bio/M0000035
+M0000043,Abortion Techniques,T000083,Abortion Techniques,1/1/99,7/2/02,1/1/71,bio/T000083,bio/M0000043
+M0000043,Abortion Techniques,T000083,Abortion Technique,1/1/99,7/2/02,1/1/71,bio/T000083,bio/M0000043
+M0000043,Abortion Techniques,T000083,"Technique, Abortion",1/1/99,7/2/02,1/1/71,bio/T000083,bio/M0000043
+M0000043,Abortion Techniques,T000083,"Techniques, Abortion",1/1/99,7/2/02,1/1/71,bio/T000083,bio/M0000043
+M0000043,Abortion Techniques,T000082,Abortion Technics,1/1/99,7/2/02,1/1/71,bio/T000082,bio/M0000043
+M0000043,Abortion Techniques,T000082,Abortion Technic,1/1/99,7/2/02,1/1/71,bio/T000082,bio/M0000043
+M0000043,Abortion Techniques,T000082,"Technic, Abortion",1/1/99,7/2/02,1/1/71,bio/T000082,bio/M0000043
+M0000043,Abortion Techniques,T000082,"Technics, Abortion",1/1/99,7/2/02,1/1/71,bio/T000082,bio/M0000043
+M0000036,"Abortion, Drug-Induced",T000074,"Abortion, Drug-Induced",1/1/99,7/2/02,1/1/71,bio/T000074,bio/M0000036
+M0000036,"Abortion, Drug-Induced",T000074,"Abortion, Drug Induced",1/1/99,7/2/02,1/1/71,bio/T000074,bio/M0000036
+M0000036,"Abortion, Drug-Induced",T000074,"Abortions, Drug-Induced",1/1/99,7/2/02,1/1/71,bio/T000074,bio/M0000036
+M0000036,"Abortion, Drug-Induced",T000074,Drug-Induced Abortion,1/1/99,7/2/02,1/1/71,bio/T000074,bio/M0000036
+M0000036,"Abortion, Drug-Induced",T000074,Drug-Induced Abortions,1/1/99,7/2/02,1/1/71,bio/T000074,bio/M0000036
+M0000034,Previous Abortion,T000072,Previous Abortion,1/1/99,7/2/02,1/1/71,bio/T000072,bio/M0000034
+M0000034,Previous Abortion,T000072,"Abortion, Previous",1/1/99,7/2/02,1/1/71,bio/T000072,bio/M0000034
+M0000034,Previous Abortion,T000072,"Abortions, Previous",1/1/99,7/2/02,1/1/71,bio/T000072,bio/M0000034
+M0000034,Previous Abortion,T000072,Previous Abortions,1/1/99,7/2/02,1/1/71,bio/T000072,bio/M0000034
+M0000034,Previous Abortion,T000071,Abortion History,1/1/99,7/2/02,1/1/71,bio/T000071,bio/M0000034
+M0000034,Previous Abortion,T000071,Abortion Histories,1/1/99,7/2/02,1/1/71,bio/T000071,bio/M0000034
+M0000034,Previous Abortion,T000071,"Histories, Abortion",1/1/99,7/2/02,1/1/71,bio/T000071,bio/M0000034
+M0000034,Previous Abortion,T000071,"History, Abortion",1/1/99,7/2/02,1/1/71,bio/T000071,bio/M0000034
+M0000039,"Abortion, Saline-Solution",T000078,"Abortion, Saline-Solution",1/1/99,7/2/02,1/1/71,bio/T000078,bio/M0000039
+M0000039,"Abortion, Saline-Solution",T000078,"Abortion, Saline Solution",1/1/99,7/2/02,1/1/71,bio/T000078,bio/M0000039
+M0000039,"Abortion, Saline-Solution",T000078,"Abortions, Saline-Solution",1/1/99,7/2/02,1/1/71,bio/T000078,bio/M0000039
+M0000039,"Abortion, Saline-Solution",T000078,Saline-Solution Abortion,1/1/99,7/2/02,1/1/71,bio/T000078,bio/M0000039
+M0000039,"Abortion, Saline-Solution",T000078,Saline-Solution Abortions,1/1/99,7/2/02,1/1/71,bio/T000078,bio/M0000039
+M0000044,"Abortion, Soap-Solution",T000084,"Abortion, Soap-Solution",1/1/99,7/2/02,1/1/71,bio/T000084,bio/M0000044
+M0000044,"Abortion, Soap-Solution",T000084,"Abortion, Soap Solution",1/1/99,7/2/02,1/1/71,bio/T000084,bio/M0000044
+M0000044,"Abortion, Soap-Solution",T000084,"Abortions, Soap-Solution",1/1/99,7/2/02,1/1/71,bio/T000084,bio/M0000044
+M0000044,"Abortion, Soap-Solution",T000084,Soap-Solution Abortion,1/1/99,7/2/02,1/1/71,bio/T000084,bio/M0000044
+M0000044,"Abortion, Soap-Solution",T000084,Soap-Solution Abortions,1/1/99,7/2/02,1/1/71,bio/T000084,bio/M0000044
+M0000040,Anti-Abortion Groups,T000079,Anti-Abortion Groups,1/1/99,7/2/02,1/1/71,bio/T000079,bio/M0000040
+M0000040,Anti-Abortion Groups,T000079,Anti Abortion Groups,1/1/99,7/2/02,1/1/71,bio/T000079,bio/M0000040
+M0000040,Anti-Abortion Groups,T000079,Anti-Abortion Group,1/1/99,7/2/02,1/1/71,bio/T000079,bio/M0000040
+M0000040,Anti-Abortion Groups,T000079,"Group, Anti-Abortion",1/1/99,7/2/02,1/1/71,bio/T000079,bio/M0000040
+M0000040,Anti-Abortion Groups,T000079,"Groups, Anti-Abortion",1/1/99,7/2/02,1/1/71,bio/T000079,bio/M0000040
+M0000041,Embryotomy,T000080,Embryotomy,1/1/99,7/2/02,1/1/71,bio/T000080,bio/M0000041
+M0000041,Embryotomy,T000080,Embryotomies,1/1/99,7/2/02,1/1/71,bio/T000080,bio/M0000041
+M0000042,"Fertility Control, Postconception",T000081,"Fertility Control, Postconception",1/1/99,7/2/02,1/1/71,bio/T000081,bio/M0000042
+M0000042,"Fertility Control, Postconception",T000081,Postconception Fertility Control,1/1/99,7/2/02,1/1/71,bio/T000081,bio/M0000042
+M0000045,Abortion Failure,T000085,Abortion Failure,1/1/99,7/2/02,1/1/71,bio/T000085,bio/M0000045
+M0000045,Abortion Failure,T000085,Abortion Failures,1/1/99,7/2/02,1/1/71,bio/T000085,bio/M0000045
+M0000045,Abortion Failure,T000085,"Failure, Abortion",1/1/99,7/2/02,1/1/71,bio/T000085,bio/M0000045
+M0000045,Abortion Failure,T000085,"Failures, Abortion",1/1/99,7/2/02,1/1/71,bio/T000085,bio/M0000045
+M0000038,"Abortion, Rivanol",T000077,"Abortion, Rivanol",1/1/99,7/2/02,1/1/71,bio/T000077,bio/M0000038
+M0000038,"Abortion, Rivanol",T000077,"Abortions, Rivanol",1/1/99,7/2/02,1/1/71,bio/T000077,bio/M0000038
+M0000038,"Abortion, Rivanol",T000077,Rivanol Abortion,1/1/99,7/2/02,1/1/71,bio/T000077,bio/M0000038
+M0000038,"Abortion, Rivanol",T000077,Rivanol Abortions,1/1/99,7/2/02,1/1/71,bio/T000077,bio/M0000038
+M0000047,"Abortion, Legal",T000087,"Abortion, Legal",1/1/99,6/23/15,1/1/64,bio/T000087,bio/M0000047
+M0000047,"Abortion, Legal",T000087,"Abortions, Legal",1/1/99,6/23/15,1/1/64,bio/T000087,bio/M0000047
+M0000047,"Abortion, Legal",T000087,Legal Abortion,1/1/99,6/23/15,1/1/64,bio/T000087,bio/M0000047
+M0000047,"Abortion, Legal",T000087,Legal Abortions,1/1/99,6/23/15,1/1/64,bio/T000087,bio/M0000047
+M0000046,Abortion on Demand,T000086,Abortion on Demand,1/1/99,6/23/15,1/1/64,bio/T000086,bio/M0000046
+M0000048,"Abortion, Missed",T000088,"Abortion, Missed",1/1/99,6/30/05,1/1/66,bio/T000088,bio/M0000048
+M0000048,"Abortion, Missed",T000088,"Abortions, Missed",1/1/99,6/30/05,1/1/66,bio/T000088,bio/M0000048
+M0000048,"Abortion, Missed",T000088,Missed Abortion,1/1/99,6/30/05,1/1/66,bio/T000088,bio/M0000048
+M0000048,"Abortion, Missed",T000088,Missed Abortions,1/1/99,6/30/05,1/1/66,bio/T000088,bio/M0000048
+M0000050,"Abortion, Septic",T000090,"Abortion, Septic",1/1/99,6/17/19,1/1/66,bio/T000090,bio/M0000050
+M0000050,"Abortion, Septic",T000090,"Abortions, Septic",1/1/99,6/17/19,1/1/66,bio/T000090,bio/M0000050
+M0000050,"Abortion, Septic",T000090,Septic Abortions,1/1/99,6/17/19,1/1/66,bio/T000090,bio/M0000050
+M0000050,"Abortion, Septic",T637142,Septic Abortion,1/1/99,6/17/19,1/1/66,bio/T637142,bio/M0000050
+M0000051,"Abortion, Therapeutic",T000092,"Abortion, Therapeutic",1/1/99,6/20/97,1/1/66,bio/T000092,bio/M0000051
+M0000051,"Abortion, Therapeutic",T000091,Therapeutic Abortion,1/1/99,6/20/97,1/1/66,bio/T000091,bio/M0000051
+M0000051,"Abortion, Therapeutic",T000091,"Abortions, Therapeutic",1/1/99,6/20/97,1/1/66,bio/T000091,bio/M0000051
+M0000051,"Abortion, Therapeutic",T000091,Therapeutic Abortions,1/1/99,6/20/97,1/1/66,bio/T000091,bio/M0000051
+M0000052,"Abortion, Threatened",T000093,"Abortion, Threatened",1/1/99,6/20/17,1/1/66,bio/T000093,bio/M0000052
+M0000052,"Abortion, Threatened",T000093,Threatened Abortion,1/1/99,6/20/17,1/1/66,bio/T000093,bio/M0000052
+M0000052,"Abortion, Threatened",T000093,Threatened Abortions,1/1/99,6/20/17,1/1/66,bio/T000093,bio/M0000052
+M0000052,"Abortion, Threatened",T000923273,Threatened Miscarriage,1/1/99,6/20/17,1/1/66,bio/T000923273,bio/M0000052
+M0000052,"Abortion, Threatened",T000923273,"Miscarriage, Threatened",1/1/99,6/20/17,1/1/66,bio/T000923273,bio/M0000052
+M0000052,"Abortion, Threatened",T000923273,Threatened Miscarriages,1/1/99,6/20/17,1/1/66,bio/T000923273,bio/M0000052
+M0000053,"Abortion, Veterinary",T000095,"Abortion, Veterinary",1/1/99,7/9/07,1/1/66,bio/T000095,bio/M0000053
+M0000053,"Abortion, Veterinary",T000094,Veterinary Abortion,1/1/99,7/9/07,1/1/66,bio/T000094,bio/M0000053
+M0000053,"Abortion, Veterinary",T000094,"Abortions, Veterinary",1/1/99,7/9/07,1/1/66,bio/T000094,bio/M0000053
+M0000053,"Abortion, Veterinary",T000094,Veterinary Abortions,1/1/99,7/9/07,1/1/66,bio/T000094,bio/M0000053
+M0000054,Abreaction,T000096,Abreaction,1/1/99,6/20/97,1/1/68,bio/T000096,bio/M0000054
+M0000054,Abreaction,T000096,Abreactions,1/1/99,6/20/97,1/1/68,bio/T000096,bio/M0000054
+M0000055,Abrin,T000097,Abrin,11/19/74,7/9/07,1/1/91,bio/T000097,bio/M0000055
+M0000057,Abrin C,T000099,Abrin C,11/19/74,7/9/07,1/1/91,bio/T000099,bio/M0000057
+M0000056,Abrin A,T000098,Abrin A,11/19/74,7/9/07,1/1/91,bio/T000098,bio/M0000056
+M0000058,Abruptio Placentae,T000100,Abruptio Placentae,1/1/99,6/30/05,1/1/66,bio/T000100,bio/M0000058
+M0000058,Abruptio Placentae,T632336,Placental Abruption,1/1/99,6/30/05,1/1/66,bio/T632336,bio/M0000058
+M0000058,Abruptio Placentae,T632336,"Abruption, Placental",1/1/99,6/30/05,1/1/66,bio/T632336,bio/M0000058
+M0000058,Abruptio Placentae,T632336,"Abruptions, Placental",1/1/99,6/30/05,1/1/66,bio/T632336,bio/M0000058
+M0000058,Abruptio Placentae,T632336,Placental Abruptions,1/1/99,6/30/05,1/1/66,bio/T632336,bio/M0000058
+M0000059,Abscess,T000101,Abscess,1/1/99,6/17/19,1/1/66,bio/T000101,bio/M0000059
+M0000059,Abscess,T000101,Abscesses,1/1/99,6/17/19,1/1/66,bio/T000101,bio/M0000059
+M0000060,Peritonsillar Abscess,T000103,Peritonsillar Abscess,1/1/99,6/17/19,1/1/89,bio/T000103,bio/M0000060
+M0000060,Peritonsillar Abscess,T000103,"Abscesses, Peritonsillar",1/1/99,6/17/19,1/1/89,bio/T000103,bio/M0000060
+M0000060,Peritonsillar Abscess,T000103,Peritonsillar Abscesses,1/1/99,6/17/19,1/1/89,bio/T000103,bio/M0000060
+M0000060,Peritonsillar Abscess,T000102,"Abscess, Peritonsillar",1/1/99,6/17/19,1/1/89,bio/T000102,bio/M0000060
+M0000061,Abscisic Acid,T000104,Abscisic Acid,11/19/74,7/2/19,1/1/91,bio/T000104,bio/M0000061
+M0000061,Abscisic Acid,T000106,Abscissic Acid,11/19/74,7/2/19,1/1/91,bio/T000106,bio/M0000061
+M0000061,Abscisic Acid,T000962402,"2,4-Pentadienoic acid, 5-(1-hydroxy-2,6,6-trimethyl-4-oxo-2-cyclohexen-1-yl)-3-methyl-, (S-(Z,E))-",11/19/74,7/2/19,1/1/91,bio/T000962402,bio/M0000061
+M0000061,Abscisic Acid,T000105,Abscissins,11/19/74,7/2/19,1/1/91,bio/T000105,bio/M0000061
+M0330738,"Abscisic Acid, (+,-)-Isomer",T360932,"Abscisic Acid, (+,-)-Isomer",11/19/74,7/2/19,1/1/91,bio/T360932,bio/M0330738
+M0330737,"Abscisic Acid, (Z,E)-Isomer",T360931,"Abscisic Acid, (Z,E)-Isomer",11/19/74,7/2/19,1/1/91,bio/T360931,bio/M0330737
+M0330678,"Abscisic Acid, (E,Z)-(+,-)-Isomer",T360872,"Abscisic Acid, (E,Z)-(+,-)-Isomer",11/19/74,7/2/19,1/1/91,bio/T360872,bio/M0330678
+M0330677,"Abscisic Acid, (R)-Isomer",T360871,"Abscisic Acid, (R)-Isomer",11/19/74,7/2/19,1/1/91,bio/T360871,bio/M0330677
+M0330680,"Abscisic Acid Monoammonium Salt, (R)-Isomer",T360874,"Abscisic Acid Monoammonium Salt, (R)-Isomer",11/19/74,7/2/19,1/1/91,bio/T360874,bio/M0330680
+M0330679,"Abscisic Acid, (E,E)-(+-)-Isomer",T360873,"Abscisic Acid, (E,E)-(+-)-Isomer",11/19/74,7/2/19,1/1/91,bio/T360873,bio/M0330679
+M0000062,Absenteeism,T000107,Absenteeism,1/1/99,5/27/94,1/1/63,bio/T000107,bio/M0000062
+M0000063,Absorption,T000108,Absorption,1/1/99,5/2/16,1/1/66,bio/T000108,bio/M0000063
+M0000065,Abstracting and Indexing,T000111,Abstracting and Indexing,1/1/99,7/5/19,1/1/60,bio/T000111,bio/M0000065
+M0000065,Abstracting and Indexing,T708842,Indexing and Abstracting as Topic,1/1/99,7/5/19,1/1/60,bio/T708842,bio/M0000065
+M0000065,Abstracting and Indexing,T700404,Abstracting and Indexing as Topic,1/1/99,7/5/19,1/1/60,bio/T700404,bio/M0000065
+M0000065,Abstracting and Indexing,T000110,Indexing and Abstracting,1/1/99,7/5/19,1/1/60,bio/T000110,bio/M0000065
+M0372380,Indexing,T000114,Indexing,1/1/99,7/5/19,1/1/60,bio/T000114,bio/M0372380
+M0372380,Indexing,T700407,Indexing as Topic,1/1/99,7/5/19,1/1/60,bio/T700407,bio/M0372380
+M0000066,Indexes as Topic,T700406,Indexes as Topic,1/1/99,7/5/19,1/1/60,bio/T700406,bio/M0000066
+M0000064,Abstracting,T000109,Abstracting,1/1/99,7/5/19,1/1/60,bio/T000109,bio/M0000064
+M0000064,Abstracting,T700405,Abstracting as Topic,1/1/99,7/5/19,1/1/60,bio/T700405,bio/M0000064
+M0000067,Dental Abutments,T000118,Dental Abutments,1/1/99,6/22/15,1/1/70,bio/T000118,bio/M0000067
+M0000067,Dental Abutments,T000117,"Abutments, Dental",1/1/99,6/22/15,1/1/70,bio/T000117,bio/M0000067
+M0000067,Dental Abutments,T000115,"Abutment, Dental",1/1/99,6/22/15,1/1/70,bio/T000115,bio/M0000067
+M0000067,Dental Abutments,T000116,Dental Abutment,1/1/99,6/22/15,1/1/70,bio/T000116,bio/M0000067
+M0000068,Acacia,T000119,Acacia,1/1/99,8/13/20,1/1/91,bio/T000119,bio/M0000068
+M0000068,Acacia,T000119,Acacias,1/1/99,8/13/20,1/1/91,bio/T000119,bio/M0000068
+M0000068,Acacia,T000121,Wattle Tree,1/1/99,8/13/20,1/1/91,bio/T000121,bio/M0000068
+M0000068,Acacia,T000121,"Tree, Wattle",1/1/99,8/13/20,1/1/91,bio/T000121,bio/M0000068
+M0000068,Acacia,T000121,"Trees, Wattle",1/1/99,8/13/20,1/1/91,bio/T000121,bio/M0000068
+M0000068,Acacia,T000121,Wattle Trees,1/1/99,8/13/20,1/1/91,bio/T000121,bio/M0000068
+M0000068,Acacia,T000120,Locust Tree,1/1/99,8/13/20,1/1/91,bio/T000120,bio/M0000068
+M0000068,Acacia,T000120,Locust Trees,1/1/99,8/13/20,1/1/91,bio/T000120,bio/M0000068
+M0000068,Acacia,T000120,"Tree, Locust",1/1/99,8/13/20,1/1/91,bio/T000120,bio/M0000068
+M0000068,Acacia,T000120,"Trees, Locust",1/1/99,8/13/20,1/1/91,bio/T000120,bio/M0000068
+M0397059,Acacia catechu,T459714,Acacia catechu,1/1/99,8/13/20,1/1/91,bio/T459714,bio/M0397059
+M0397059,Acacia catechu,T459714,Acacia catechus,1/1/99,8/13/20,1/1/91,bio/T459714,bio/M0397059
+M0397059,Acacia catechu,T459714,"catechus, Acacia",1/1/99,8/13/20,1/1/91,bio/T459714,bio/M0397059
+M0000069,Academic Medical Centers,T000127,Academic Medical Centers,6/1/79,5/24/19,1/1/80,bio/T000127,bio/M0000069
+M0000069,Academic Medical Centers,T000130,"Medical Center, University",6/1/79,5/24/19,1/1/80,bio/T000130,bio/M0000069
+M0000069,Academic Medical Centers,T000131,University Medical Center,6/1/79,5/24/19,1/1/80,bio/T000131,bio/M0000069
+M0000069,Academic Medical Centers,T000132,"Medical Centers, University",6/1/79,5/24/19,1/1/80,bio/T000132,bio/M0000069
+M0000069,Academic Medical Centers,T000133,University Medical Centers,6/1/79,5/24/19,1/1/80,bio/T000133,bio/M0000069
+M0000069,Academic Medical Centers,T000128,"Center, University Medical",6/1/79,5/24/19,1/1/80,bio/T000128,bio/M0000069
+M0000069,Academic Medical Centers,T000123,"Center, Academic Medical",6/1/79,5/24/19,1/1/80,bio/T000123,bio/M0000069
+M0000069,Academic Medical Centers,T000124,"Centers, Academic Medical",6/1/79,5/24/19,1/1/80,bio/T000124,bio/M0000069
+M0000069,Academic Medical Centers,T000125,"Medical Center, Academic",6/1/79,5/24/19,1/1/80,bio/T000125,bio/M0000069
+M0000069,Academic Medical Centers,T000126,"Medical Centers, Academic",6/1/79,5/24/19,1/1/80,bio/T000126,bio/M0000069
+M0000069,Academic Medical Centers,T000129,"Centers, University Medical",6/1/79,5/24/19,1/1/80,bio/T000129,bio/M0000069
+M0000069,Academic Medical Centers,T000122,Academic Medical Center,6/1/79,5/24/19,1/1/80,bio/T000122,bio/M0000069
+M0000071,Academies and Institutes,T000137,Academies and Institutes,1/1/99,11/3/99,1/1/70,bio/T000137,bio/M0000071
+M0000071,Academies and Institutes,T000136,Institutes and Academies,1/1/99,11/3/99,1/1/70,bio/T000136,bio/M0000071
+M0000071,Academies and Institutes,T000135,Academy and Institute,1/1/99,11/3/99,1/1/70,bio/T000135,bio/M0000071
+M0000071,Academies and Institutes,T000135,Institute and Academy,1/1/99,11/3/99,1/1/70,bio/T000135,bio/M0000071
+M0000072,Institutes,T000138,Institutes,1/1/99,11/3/99,1/1/70,bio/T000138,bio/M0000072
+M0000073,Research Institutes,T000139,Research Institutes,1/1/99,11/3/99,1/1/70,bio/T000139,bio/M0000073
+M0000073,Research Institutes,T000139,"Institute, Research",1/1/99,11/3/99,1/1/70,bio/T000139,bio/M0000073
+M0000073,Research Institutes,T000139,"Institutes, Research",1/1/99,11/3/99,1/1/70,bio/T000139,bio/M0000073
+M0000073,Research Institutes,T000139,Research Institute,1/1/99,11/3/99,1/1/70,bio/T000139,bio/M0000073
+M0000070,Academies,T000134,Academies,1/1/99,11/3/99,1/1/70,bio/T000134,bio/M0000070
+M0000070,Academies,T000134,Academy,1/1/99,11/3/99,1/1/70,bio/T000134,bio/M0000070
+M0000074,Acanthamoeba,T000140,Acanthamoeba,4/30/87,8/13/20,1/1/88,bio/T000140,bio/M0000074
+M0000074,Acanthamoeba,T000140,Acanthamoebas,4/30/87,8/13/20,1/1/88,bio/T000140,bio/M0000074
+M0000075,Acanthocephala,T000141,Acanthocephala,1/1/99,8/13/20,1/1/74,bio/T000141,bio/M0000075
+M0000075,Acanthocephala,T000141,Acanthocephalas,1/1/99,8/13/20,1/1/74,bio/T000141,bio/M0000075
+M0000075,Acanthocephala,T000142,Thorny-Headed Worms,1/1/99,8/13/20,1/1/74,bio/T000142,bio/M0000075
+M0000075,Acanthocephala,T000142,Thorny Headed Worms,1/1/99,8/13/20,1/1/74,bio/T000142,bio/M0000075
+M0000075,Acanthocephala,T000142,Thorny-Headed Worm,1/1/99,8/13/20,1/1/74,bio/T000142,bio/M0000075
+M0000075,Acanthocephala,T000142,"Worm, Thorny-Headed",1/1/99,8/13/20,1/1/74,bio/T000142,bio/M0000075
+M0000075,Acanthocephala,T000142,"Worms, Thorny-Headed",1/1/99,8/13/20,1/1/74,bio/T000142,bio/M0000075
+M0000076,Acanthocytes,T000143,Acanthocytes,11/11/74,7/9/03,1/1/91,bio/T000143,bio/M0000076
+M0000076,Acanthocytes,T000143,Acanthocyte,11/11/74,7/9/03,1/1/91,bio/T000143,bio/M0000076
+M0000077,Acantholysis,T000144,Acantholysis,1/1/99,7/10/08,1/1/91,bio/T000144,bio/M0000077
+M0000077,Acantholysis,T000144,Acantholyses,1/1/99,7/10/08,1/1/91,bio/T000144,bio/M0000077
+M0000078,Acanthosis Nigricans,T000145,Acanthosis Nigricans,1/1/99,7/1/16,1/1/66,bio/T000145,bio/M0000078
+M0000078,Acanthosis Nigricans,T000145,Acanthosis Nigrican,1/1/99,7/1/16,1/1/66,bio/T000145,bio/M0000078
+M0000078,Acanthosis Nigricans,T000145,"Nigrican, Acanthosis",1/1/99,7/1/16,1/1/66,bio/T000145,bio/M0000078
+M0000078,Acanthosis Nigricans,T000145,"Nigricans, Acanthosis",1/1/99,7/1/16,1/1/66,bio/T000145,bio/M0000078
+M0000079,Acari,T000146,Acari,1/1/99,8/13/20,1/1/75,bio/T000146,bio/M0000079
+M0000080,Acceleration,T000147,Acceleration,1/1/99,1/15/16,1/1/66,bio/T000147,bio/M0000080
+M0000080,Acceleration,T000147,Accelerations,1/1/99,1/15/16,1/1/66,bio/T000147,bio/M0000080
+M0000081,Accessory Nerve,T000148,Accessory Nerve,1/1/99,6/13/14,1/1/66,bio/T000148,bio/M0000081
+M0000081,Accessory Nerve,T000148,Accessory Nerves,1/1/99,6/13/14,1/1/66,bio/T000148,bio/M0000081
+M0000081,Accessory Nerve,T000148,"Nerve, Accessory",1/1/99,6/13/14,1/1/66,bio/T000148,bio/M0000081
+M0000081,Accessory Nerve,T000148,"Nerves, Accessory",1/1/99,6/13/14,1/1/66,bio/T000148,bio/M0000081
+M0000081,Accessory Nerve,T000151,Spinal Accessory Nerve,1/1/99,6/13/14,1/1/66,bio/T000151,bio/M0000081
+M0000081,Accessory Nerve,T000151,"Accessory Nerve, Spinal",1/1/99,6/13/14,1/1/66,bio/T000151,bio/M0000081
+M0000081,Accessory Nerve,T000151,"Accessory Nerves, Spinal",1/1/99,6/13/14,1/1/66,bio/T000151,bio/M0000081
+M0000081,Accessory Nerve,T000151,"Nerve, Spinal Accessory",1/1/99,6/13/14,1/1/66,bio/T000151,bio/M0000081
+M0000081,Accessory Nerve,T000151,"Nerves, Spinal Accessory",1/1/99,6/13/14,1/1/66,bio/T000151,bio/M0000081
+M0000081,Accessory Nerve,T000151,Spinal Accessory Nerves,1/1/99,6/13/14,1/1/66,bio/T000151,bio/M0000081
+M0000081,Accessory Nerve,T856514,Nerve XI,1/1/99,6/13/14,1/1/66,bio/T856514,bio/M0000081
+M0000081,Accessory Nerve,T856514,Nerve XIs,1/1/99,6/13/14,1/1/66,bio/T856514,bio/M0000081
+M0000081,Accessory Nerve,T856515,Nervus Accessorius,1/1/99,6/13/14,1/1/66,bio/T856515,bio/M0000081
+M0000081,Accessory Nerve,T856515,"Accessorius, Nervus",1/1/99,6/13/14,1/1/66,bio/T856515,bio/M0000081
+M0000081,Accessory Nerve,T000150,Cranial Nerve XI,1/1/99,6/13/14,1/1/66,bio/T000150,bio/M0000081
+M0000081,Accessory Nerve,T000149,Eleventh Cranial Nerve,1/1/99,6/13/14,1/1/66,bio/T000149,bio/M0000081
+M0000081,Accessory Nerve,T000149,"Cranial Nerve, Eleventh",1/1/99,6/13/14,1/1/66,bio/T000149,bio/M0000081
+M0000081,Accessory Nerve,T000149,"Cranial Nerves, Eleventh",1/1/99,6/13/14,1/1/66,bio/T000149,bio/M0000081
+M0000081,Accessory Nerve,T000149,Eleventh Cranial Nerves,1/1/99,6/13/14,1/1/66,bio/T000149,bio/M0000081
+M0000081,Accessory Nerve,T000149,"Nerve, Eleventh Cranial",1/1/99,6/13/14,1/1/66,bio/T000149,bio/M0000081
+M0000081,Accessory Nerve,T000149,"Nerves, Eleventh Cranial",1/1/99,6/13/14,1/1/66,bio/T000149,bio/M0000081
+M0000083,Accident Prevention,T000153,Accident Prevention,1/1/99,7/8/08,1/1/66,bio/T000153,bio/M0000083
+M0000083,Accident Prevention,T000152,"Prevention, Accident",1/1/99,7/8/08,1/1/66,bio/T000152,bio/M0000083
+M0000083,Accident Prevention,T000152,Accident Preventions,1/1/99,7/8/08,1/1/66,bio/T000152,bio/M0000083
+M0000083,Accident Prevention,T000152,"Preventions, Accident",1/1/99,7/8/08,1/1/66,bio/T000152,bio/M0000083
+M0000084,Accident Proneness,T000154,Accident Proneness,11/11/74,7/2/02,9/1/75,bio/T000154,bio/M0000084
+M0000084,Accident Proneness,T000154,Accident Pronenesses,11/11/74,7/2/02,9/1/75,bio/T000154,bio/M0000084
+M0000084,Accident Proneness,T000154,"Proneness, Accident",11/11/74,7/2/02,9/1/75,bio/T000154,bio/M0000084
+M0000084,Accident Proneness,T000154,"Pronenesses, Accident",11/11/74,7/2/02,9/1/75,bio/T000154,bio/M0000084
+M0000085,Accidental Falls,T000156,Accidental Falls,6/24/86,6/16/15,1/1/91,bio/T000156,bio/M0000085
+M0000085,Accidental Falls,T000866038,Falls,6/24/86,6/16/15,1/1/91,bio/T000866038,bio/M0000085
+M0000085,Accidental Falls,T000866036,Falling,6/24/86,6/16/15,1/1/91,bio/T000866036,bio/M0000085
+M0000085,Accidental Falls,T000155,"Falls, Accidental",6/24/86,6/16/15,1/1/91,bio/T000155,bio/M0000085
+M0000085,Accidental Falls,T000155,Accidental Fall,6/24/86,6/16/15,1/1/91,bio/T000155,bio/M0000085
+M0000085,Accidental Falls,T000155,"Fall, Accidental",6/24/86,6/16/15,1/1/91,bio/T000155,bio/M0000085
+M000597654,Slip and Fall,T000866037,Slip and Fall,6/24/86,6/16/15,1/1/91,bio/T000866037,bio/M000597654
+M000597654,Slip and Fall,T000866037,Fall and Slip,6/24/86,6/16/15,1/1/91,bio/T000866037,bio/M000597654
+M0000086,Accidents,T000157,Accidents,1/1/99,7/8/19,1/1/66,bio/T000157,bio/M0000086
+M0000086,Accidents,T000157,Accident,1/1/99,7/8/19,1/1/66,bio/T000157,bio/M0000086
+M0000087,"Accidents, Aviation",T000158,"Accidents, Aviation",1/1/99,11/30/15,1/1/66,bio/T000158,bio/M0000087
+M0000087,"Accidents, Aviation",T000158,"Accident, Aviation",1/1/99,11/30/15,1/1/66,bio/T000158,bio/M0000087
+M0000087,"Accidents, Aviation",T000158,Aviation Accident,1/1/99,11/30/15,1/1/66,bio/T000158,bio/M0000087
+M0000087,"Accidents, Aviation",T000158,Aviation Accidents,1/1/99,11/30/15,1/1/66,bio/T000158,bio/M0000087
+M0000088,"Accidents, Home",T000160,"Accidents, Home",1/1/99,11/30/15,1/1/70,bio/T000160,bio/M0000088
+M0000088,"Accidents, Home",T000159,Home Accidents,1/1/99,11/30/15,1/1/70,bio/T000159,bio/M0000088
+M0000088,"Accidents, Home",T000159,"Accident, Home",1/1/99,11/30/15,1/1/70,bio/T000159,bio/M0000088
+M0000088,"Accidents, Home",T000159,Home Accident,1/1/99,11/30/15,1/1/70,bio/T000159,bio/M0000088
+M0000090,"Accidents, Occupational",T000164,"Accidents, Occupational",1/1/99,6/24/11,1/1/79,bio/T000164,bio/M0000090
+M0000090,"Accidents, Occupational",T000163,Occupational Accidents,1/1/99,6/24/11,1/1/79,bio/T000163,bio/M0000090
+M0000090,"Accidents, Occupational",T000163,"Accident, Occupational",1/1/99,6/24/11,1/1/79,bio/T000163,bio/M0000090
+M0000090,"Accidents, Occupational",T000163,Occupational Accident,1/1/99,6/24/11,1/1/79,bio/T000163,bio/M0000090
+M0000089,"Accidents, Industrial",T000162,"Accidents, Industrial",1/1/99,6/24/11,1/1/79,bio/T000162,bio/M0000089
+M0000089,"Accidents, Industrial",T000161,Industrial Accidents,1/1/99,6/24/11,1/1/79,bio/T000161,bio/M0000089
+M0000089,"Accidents, Industrial",T000161,"Accident, Industrial",1/1/99,6/24/11,1/1/79,bio/T000161,bio/M0000089
+M0000089,"Accidents, Industrial",T000161,Industrial Accident,1/1/99,6/24/11,1/1/79,bio/T000161,bio/M0000089
+M0000091,"Accidents, Traffic",T000166,"Accidents, Traffic",1/1/99,5/31/19,1/1/66,bio/T000166,bio/M0000091
+M0000091,"Accidents, Traffic",T000166,"Accident, Traffic",1/1/99,5/31/19,1/1/66,bio/T000166,bio/M0000091
+M0000091,"Accidents, Traffic",T000166,Traffic Accident,1/1/99,5/31/19,1/1/66,bio/T000166,bio/M0000091
+M0000091,"Accidents, Traffic",T000165,Traffic Accidents,1/1/99,5/31/19,1/1/66,bio/T000165,bio/M0000091
+M000648753,Traffic Collisions,T000955979,Traffic Collisions,1/1/99,5/31/19,1/1/66,bio/T000955979,bio/M000648753
+M000648753,Traffic Collisions,T000955979,"Collision, Traffic",1/1/99,5/31/19,1/1/66,bio/T000955979,bio/M000648753
+M000648753,Traffic Collisions,T000955979,"Collisions, Traffic",1/1/99,5/31/19,1/1/66,bio/T000955979,bio/M000648753
+M000648753,Traffic Collisions,T000955979,Traffic Collision,1/1/99,5/31/19,1/1/66,bio/T000955979,bio/M000648753
+M000648752,Traffic Crashes,T000955978,Traffic Crashes,1/1/99,5/31/19,1/1/66,bio/T000955978,bio/M000648752
+M000648752,Traffic Crashes,T000955978,"Crashes, Traffic",1/1/99,5/31/19,1/1/66,bio/T000955978,bio/M000648752
+M0000092,Acclimatization,T000168,Acclimatization,1/1/99,2/19/16,1/1/66,bio/T000168,bio/M0000092
+M0000092,Acclimatization,T000167,Acclimation,1/1/99,2/19/16,1/1/66,bio/T000167,bio/M0000092
+M0000093,"Accommodation, Ocular",T000169,"Accommodation, Ocular",1/1/99,6/2/16,1/1/66,bio/T000169,bio/M0000093
+M0000093,"Accommodation, Ocular",T620583,Ocular Distance Accommodation,1/1/99,6/2/16,1/1/66,bio/T620583,bio/M0000093
+M0000093,"Accommodation, Ocular",T620583,"Accommodation, Ocular Distance",1/1/99,6/2/16,1/1/66,bio/T620583,bio/M0000093
+M0000093,"Accommodation, Ocular",T620583,"Distance Accommodation, Ocular",1/1/99,6/2/16,1/1/66,bio/T620583,bio/M0000093
+M0000093,"Accommodation, Ocular",T620583,Ocular Distance Accommodations,1/1/99,6/2/16,1/1/66,bio/T620583,bio/M0000093
+M0000093,"Accommodation, Ocular",T613339,Ocular Accommodation,1/1/99,6/2/16,1/1/66,bio/T613339,bio/M0000093
+M0471007,"Accommodation, Lens",T604100,"Accommodation, Lens",1/1/99,6/2/16,1/1/66,bio/T604100,bio/M0471007
+M0471007,"Accommodation, Lens",T604100,Lens Accommodation,1/1/99,6/2/16,1/1/66,bio/T604100,bio/M0471007
+M0000094,Accounting,T000170,Accounting,1/1/99,6/10/96,1/1/66,bio/T000170,bio/M0000094
+M0000094,Accounting,T000170,Accountings,1/1/99,6/10/96,1/1/66,bio/T000170,bio/M0000094
+M000594798,Oil and Gas Industry,T000860464,Oil and Gas Industry,7/1/15,1/16/20,1/1/16,bio/T000860464,bio/M000594798
+M000594798,Oil and Gas Industry,T000860626,Gas and Oil Industry,7/1/15,1/16/20,1/1/16,bio/T000860626,bio/M000594798
